@@ -1,2 +1,2 @@
 # git-learning
-B-2
+B
