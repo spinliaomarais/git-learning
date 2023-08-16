@@ -1,1 +1,2 @@
-import c "a/b/xx.js"
+import "ab/b/xx.js"
+
