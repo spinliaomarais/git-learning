@@ -1,1 +1,1 @@
-import abc "a/b/xx.js"
+import c "a/b/xx."
